@@ -2,7 +2,7 @@
 
 A lightweight collaborative document editor: create and format documents in the browser, import `.txt` / `.md` / `.docx` files, and share documents with other users as editors or viewers.
 
-- **Live app:** `<YOUR_DEPLOYMENT_URL>`
+- **Live app:** `https://docdraft.vercel.app`
 - **Stack:** Next.js 16 (App Router, TypeScript) · TipTap 3 editor · PostgreSQL + Drizzle ORM · Vitest
 - **More detail:** [ARCHITECTURE.md](./ARCHITECTURE.md) · [AI_WORKFLOW.md](./AI_WORKFLOW.md) · [SUBMISSION.md](./SUBMISSION.md)
 - **Screenshots:** [docs/screenshots](./docs/screenshots)
